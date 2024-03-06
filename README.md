@@ -1,1 +1,2 @@
 <h1><a href="https://kartik2828.github.io/Coca-Cola-Splash/">Coca-Cola-Splash</a></h1>
+<p>Enjoy the "Coca-Cola Splash" experience. All I was trying to do was to create something with the knowledge and abilities I had learned. I made this using a single video that I had as a reference. I wanted to see what I could create using my skills and resources. Comment down below and let me know how this is!</p>
